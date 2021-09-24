@@ -8,3 +8,4 @@ Repo by Rajdeep Das
 # Google Cloud Qwiklabs Challenge Labs:
 1. Build a website using Google Cloud
 2. Integrate with Machine Learning APIs
+3. Getting Started Create and Manage Cloud Resources Challenge Lab
